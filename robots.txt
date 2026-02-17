@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unioncityplumbingco.com/sitemap.xml
